@@ -23,13 +23,15 @@ export default function Page() {
               imageUrl="/assets/matias-palacios.png"
               title="Matias Omar Palacios"
               description="Ingeniero Mecánico"
-              link="https://www.linkedin.com/in/matiasomarpalacios-ingeniero-mecanico/"
+              linkedin='https://www.linkedin.com/in/matiasomarpalacios-ingeniero-mecanico/'
+              instagram='https://www.instagram.com/moprc/'
             />
             <Card 
               imageUrl="/assets/bernardo-frattini.png"
               title=" Bernardo Frattini"
               description="Ingeniero Mecánico"
-              link="https://www.linkedin.com/in/moper-ingenier%C3%ADa-48b1552b7/"
+              linkedin='https://www.linkedin.com/in/matiasomarpalacios-ingeniero-mecanico/'
+              instagram='https://www.instagram.com/moprc/'
             />
           </div>
         </section>
