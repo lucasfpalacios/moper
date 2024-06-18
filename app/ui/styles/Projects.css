@@ -1,0 +1,17 @@
+.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background-color: rgb(255, 198, 0);
+}
+
+.description {
+  color: black;
+}
+
+.project_img {
+  border-radius: 50px;
+  padding: 20px;
+}

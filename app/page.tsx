@@ -1,6 +1,7 @@
 import styles from './ui/styles/home.module.css';
 import './ui/global.css'
 import Card  from './ui/dashboard/Card';
+import Projects from './ui/dashboard/Projects';
 
 export default function Page() {
   return (
@@ -34,6 +35,9 @@ export default function Page() {
               instagram='https://www.instagram.com/moprc/'
             />
           </div>
+        </section>
+        <section>
+          <Projects title={''} description={''} />
         </section>
       </main>
     </>
