@@ -1,10 +1,11 @@
 .project {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
   border-radius: 8px;
-  background-color: rgb(255, 198, 0);
+  background-color: bisque;
+  width: 100%;
+  height: auto;
 }
 
 .description {
